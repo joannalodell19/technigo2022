@@ -1,0 +1,63 @@
+.header {
+  padding: 40px;
+  text-align: center;
+  background: #bbbdbd;
+  color: white;
+  font-size: 30px;
+  font-family: 'Limelight', cursive;
+  font-family: 'Raleway', sans-serif;
+    
+
+  /*Free Alternating Chevron SVG provided by SVGeez.com - CC 4.0 License - © 2019 Megan Young */
+background-color:rgba(99, 111, 203, 0.5);
+fill:#fff;
+background-size:254px 254px;
+background-repeat:repeat;
+background-image:url("data:image/svg+xml,%3Csvg id='Layer_1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 500 500'%3E%3Cstyle%3E.st0%7Bfill:rgba(255,255,255,1)%7D%3C/style%3E%3Cpath class='st0' d='M125 250v125l125 125V375zM250 125L125 0v125l125 125zM250 250v125l125-125V125zM500 250V125L375 0v125zM500 500V375L375 250v125zM125 500V375L0 500zM375 500V375L250 500zM250 0v125L375 0zM0 125L125 0H0zM0 250v125l125-125V125z'/%3E%3C/svg%3E");
+
+}
+
+h1 {
+  color: #01030e;
+}
+
+h2 {
+  color: rgb(0, 0, 0);
+  font-size: smaller;
+}
+
+.paragraph {
+  padding: 60px;
+  text-align: center;
+  background: white;
+  color: black;
+  font-size: 20px;
+  font-family: 'Noto Sans Display', sans-serif;
+}
+  
+
+.one{
+  color: black;
+  font-size: 20px;
+}
+
+.two{
+  color: black;
+  font-size: 16px;
+  font-style: italic;
+}
+
+.three{
+  color: black;
+  font-size: 18px;
+}
+
+.four{
+  color: black;
+  font-size: 18px;
+}
+
+.five{
+  color: black;
+  font-size: 18px;
+}
